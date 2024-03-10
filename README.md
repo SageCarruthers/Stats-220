@@ -17,6 +17,9 @@ In this part of the project specifically, we have to:
   <li>put things in <b>bold</b> and <i>italics</i> or even <b><i>both</i></b> </li>
   <li>include links to other websites, like <a href="https://knowyourmeme.com/editorials/collections/20-dungeons-and-dragons-memes-to-share-with-your-dnd-group-chat">this one</a> to the site I got inspiration from for my meme or <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&feature=youtu.be">this one</a> to my favourite song :) </li>
 </ul>
+
+This is my inspiration meme: 
+<img src="https://i.kym-cdn.com/photos/images/newsfeed/002/566/112/b9c.jpg">
 </body>
 </html>
 
