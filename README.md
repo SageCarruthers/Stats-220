@@ -19,6 +19,7 @@ In this part of the project specifically, we have to:
 </ul>
 
 This is my inspiration meme: 
+<br>
 <img src="https://i.kym-cdn.com/photos/images/newsfeed/002/566/112/b9c.jpg">
 </body>
 </html>
