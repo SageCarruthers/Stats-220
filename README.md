@@ -20,7 +20,9 @@ In this part of the project specifically, we have to:
 
 This is my inspiration meme: 
 <br>
-<img src="https://i.kym-cdn.com/photos/images/newsfeed/002/566/112/b9c.jpg">
+[![First line: text saying 'Rogues when the party member is another Rogue' opposite an image of a woman saying 'Am I not enough'. 
+Second line: text saying 'Barbarians when the party member is another Barbarian' opposite an image of an ape saying 'Apes together strong'
+](https://i.kym-cdn.com/photos/images/newsfeed/002/566/112/b9c.jpg)]
 </body>
 </html>
 
